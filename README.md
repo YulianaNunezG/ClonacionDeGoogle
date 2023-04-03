@@ -28,4 +28,4 @@ Contiene las siguientes secciones:
 Aprender a ultilizar las etiquetas estandar de HTML5 y CSS3
 
 ## 4. LINK A DEMO
-Aqui puedes visualizar mi proyecto terminado: [Clonación de Google](#)
+Aqui puedes visualizar mi proyecto terminado: [Clonación de Google](https://soft-syrniki-83a70e.netlify.app/)
